@@ -15,6 +15,22 @@ Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chem
 | Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
 
 ## En banque (prêt, à publier au bon moment)
+### Zodiac, refait — « A new horoscope on your watch. Every day. »
+- Fichier : reels/zodiac-remake.mp4 (remontage de la vidéo de Pablo, sources/zodiac/video/zodiac-instagram-reel.mp4 : 28,9 s ramenés à 12,4 s, accroche dès la première image, musique originale ajoutée, « LINK IN BIO » sur la carte finale).
+- Prévu : mar. 1er déc. vers 8 h 45 HE (premier du mois, l'heure où on lit son horoscope). Rappel programmé.
+- Première version publiée le 23 nov. : 36 vues, 84 % de décrochage avant 3 s, 10,7 s de visionnement moyen sur 28,9 s.
+- Légende :
+
+A new horoscope on your watch. Every morning.
+
+Zodiac is a Garmin watch face that reads your sign every day: a fresh horoscope written from the real sky, not recycled lines. Your sign drawn in white smoke, moon signs, eclipses, retrogrades and full moons, with the weather under the time.
+
+Sagittarius season is here. What does December say for you?
+
+Free 7-day trial on the Connect IQ Store. Link in bio.
+
+#garmin #garminwatchface #connectiq #horoscope #astrology
+
 ### Simone — « Twelve months on piano keys. » (lancement)
 - Fichier : reels/simone.mp4
 - Prévu : lun. 30 nov. vers 19 h HE. Rappel programmé. Approuvé sur le Connect IQ Store le 24 nov. 2026.
@@ -163,7 +179,7 @@ Correspondance des dossiers : nfl = Football Tracker · drinker = The Sober · U
 | Date visée | Cadran | Dossier | État |
 |---|---|---|---|
 | Lun. 30 nov. | Simone, lancement | simone | en banque |
-| Mar. 1er déc. | Zodiac, refait (essai gratuit) + story Santa 365 (Avent) | zodiac, noel | à monter |
+| Mar. 1er déc. | Zodiac, refait (8 h 45) + story Santa 365 (Avent) | zodiac, noel | reel en banque; story à monter |
 | Ven. 4 déc. | Sky Glance (3,75 $ CA) | meteo | à monter |
 | Sam. 5 déc. | Wood (gratuit) | wood | à monter |
 | Dim. 6 déc. | Tech Cockpit PRO (essai gratuit) | tech | à monter |
