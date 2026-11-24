@@ -105,6 +105,31 @@ Free on the Connect IQ Store. Drink logging is The Sober Log, $2.99 once. Link i
 Hockey Team Tracker (sam. 28), Miss Chiang (dim. 29), Duo (ven. 27, distance réelle à fournir), story Santa 365 (1er déc.),
 puis Side B, Life, Ayiti, Sky Glance, Wood, Tech Cockpit PRO, Illusion, Flower & Dragon, Gold vs Bitcoin, BitcoinLive, Agentic, Trump Live Coin Golf Day.
 
-## Règles
-- Un cadran par jour au maximum. Faits uniquement tirés du matériel de Pablo.
-- Les reels vus par Pablo et mis en banque peuvent être publiés au moment jugé le meilleur; compte rendu après.
+## Règles (mises à jour le 24 nov. 2026, 14 h 26, par Pablo)
+- Ton du compte : vivant, drôle si possible, intelligent. Jamais aux dépens de quelqu'un.
+- Reels : un cadran par jour au maximum. Ceux que Pablo a vus et qui sont en banque sortent au moment jugé le meilleur; compte rendu après.
+- Stories : une par jour, publiées sans accord préalable de Pablo. Compte rendu dans le bilan.
+- Commentaires sous les publications du compte : réponse sans accord préalable.
+- Toujours demander avant : supprimer une publication ou un commentaire, messages privés, tout prix / fonction / compatibilité absent du matériel de Pablo, tout sujet sensible.
+- Faits uniquement tirés du matériel de Pablo (dossier sources/, watchfaces.milotche.com, ses messages). Répliques de Miss Chiang : mot pour mot depuis sources/miss-chiang/phrases-v1-en.md, sans « Why you like gamble… » ni « You so stingy! ».
+- Pas de musique protégée, pas d'images d'autres comptes, pas de commentaires automatisés sur d'autres comptes.
+
+## Tournée quotidienne (12 h 30 HE, se reprogramme elle-même)
+1. Commentaires : lire et répondre.
+2. Story du jour : la fabriquer (1080 x 1920, JPEG), la déposer dans stories/, la publier via create_story avec l'adresse milotche.github.io, la noter ci-dessous.
+3. Chiffres : relever, noter ce qui se détache de la médiane.
+4. Banque : vérifier ce qui sort dans les 48 h.
+5. N'écrire à Pablo que s'il y a quelque chose d'utile.
+
+### Idées de stories (alterner, ne pas répéter un cadran deux jours de suite)
+- Miss Chiang : une réplique du jour (ex. le lundi, une ligne du pool « monday »).
+- Santa 365 : le décompte avant l'Avent, puis une porte par jour à partir du 1er déc.
+- The Sober : un état du cadran avec sa phrase.
+- Hockey / Football : le soir de match, l'écran du score.
+- Duo : la distance, « Garmin + Wear OS ».
+- Side B : le vumètre, la face A / face B.
+
+### Stories publiées
+| Date | Cadran | Fichier |
+|---|---|---|
+| 24 nov. | The Sober | stories/the-sober-story.jpg |
