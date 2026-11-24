@@ -15,6 +15,26 @@ Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chem
 | Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
 
 ## En banque (prêt, à publier au bon moment)
+### Ayiti — « January 1. Independence Day. Ayiti, on your wrist. »
+- Fichier : reels/ayiti.mp4
+- Prévu : ven. 1er janv. 2027 vers 10 h HE (fête de l'Indépendance d'Haïti). Rappel programmé. Demande de Pablo : sortir Ayiti lors d'une fête haïtienne.
+- Le titre du reel nomme le 1er janvier : ne pas le publier un autre jour sans refaire la première scène.
+- Statut : montré à Pablo le 24 nov.; kreyòl (« Bòn fèt Endepandans! ») à valider par lui.
+- Lien store : https://apps.garmin.com/apps/44dba93a-69ad-4365-ba2d-c30f4d6af341
+- Écran ouragan (04-storm-fr.png) volontairement laissé hors du reel de fête.
+- Autres dates possibles pour une suite : 2 janv. (Jour des Aïeux), 18 mai (fête du Drapeau).
+- Légende :
+
+Bòn fèt Endepandans! January 1, 1804.
+
+Ayiti is a Garmin watch face for everyone who carries Haiti with them. The flag, Port-au-Prince time and weather next to your own, and the gourde against the dollar or the euro.
+
+In English, French and Kreyòl. Made in Montréal.
+
+Free trial on the Connect IQ Store. Link in bio.
+
+#haiti #ayiti #haitianindependenceday #garmin #garminwatchface
+
 ### Life — « Your battery is the tide. »
 - Fichier : reels/life.mp4
 - Prévu : jeu. 3 déc. vers 19 h HE. Rappel programmé.
