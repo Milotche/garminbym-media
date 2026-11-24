@@ -28,7 +28,7 @@ Hockey Team Tracker is a Garmin watch face that follows your hockey team: next g
 
 Made in Montréal. Unofficial, not affiliated with any league or team.
 
-Free trial on the Connect IQ Store. Link in bio.
+Free trial, then $0.99 CAD a month. On the Connect IQ Store. Link in bio.
 
 #garmin #garminwatchface #connectiq #hockey #hockeyfans
 
