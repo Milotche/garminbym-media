@@ -216,6 +216,14 @@ Pablo veut aussi du contenu poussé de façon sporadique, hors calendrier, sans 
   - Entre le 30 nov. et le 20 déc. : un carrousel « 7 watch faces to install on your new Garmin ».
   - Sam. 26 déc. : reel « Unboxed a Garmin yesterday? » avec trois cadrans gratuits (Side B, Wood, The Sober).
 
+## Trump Live Coin Golf Day : réaction aux mouvements du $TRUMP (consigne de Pablo, 24 nov. 2026)
+Principe posé par Pablo : on ne fait en aucun cas l'apologie du personnage; c'est la performance d'une cryptomonnaie qui est mesurée.
+- Déclencheur : variation du $TRUMP d'au moins 15 % sur 24 h, vérifiée par une recherche web (source et heure notées). Vérifier à chaque tournée et à chaque passage d'opportunité.
+- Réaction : la story toute prête, stories/templates/trump-up-story.jpg (hausse, « HUGE ») ou trump-down-story.jpg (baisse, « SO SAD »), publiée le jour même. Un reel seulement si le mouvement est exceptionnel.
+- Les visuels montrent un écran de démonstration avec des prix fictifs, d'où la mention « Demo screen » : ne jamais écrire dans la légende un prix ou un pourcentage non vérifié, ni donner de conseil d'achat ou de prédiction.
+- On parle du cadran et du prix, jamais de la personne : pas d'actualité politique, judiciaire ou électorale comme déclencheur, pas d'opinion, pas de moquerie envers ses partisans ni ses opposants, pas de paroles prêtées. Mention « Unofficial ».
+- Prix du cadran : 3,49 $ CA (watchfaces.milotche.com).
+
 ## Tournée quotidienne (12 h 30 HE, se reprogramme elle-même)
 1. Commentaires : lire et répondre.
 2. Story du jour : la fabriquer (1080 x 1920, JPEG), la déposer dans stories/, la publier via create_story avec l'adresse milotche.github.io, la noter ci-dessous.
