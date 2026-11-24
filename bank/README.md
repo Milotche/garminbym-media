@@ -34,7 +34,7 @@ Free 7-day trial on the Connect IQ Store. Link in bio.
 ### Simone — « Twelve months on piano keys. » (lancement)
 - Fichier : reels/simone.mp4
 - Prévu : lun. 30 nov. vers 19 h HE. Rappel programmé. Approuvé sur le Connect IQ Store le 24 nov. 2026.
-- Lien store : https://apps.garmin.com/apps/b7da2903-f2e6-4c2d-9651-a7196c90183c — prix inconnu, ne pas en donner.
+- Lien store : https://apps.garmin.com/apps/b7da2903-f2e6-4c2d-9651-a7196c90183c — 2,49 $ US (confirmé par Pablo le 24 nov.).
 - Voir bank/360.md pour les règles de l'hommage.
 - Légende :
 
@@ -44,7 +44,7 @@ Simone is a new Garmin watch face with the mood of a 1960s jazz club. The months
 
 An independent tribute to Nina Simone.
 
-In English, French, Spanish, German and Chinese. New on the Connect IQ Store. Link in bio.
+In English, French, Spanish, German and Chinese. New on the Connect IQ Store, $2.49 USD. Link in bio.
 
 #garmin #garminwatchface #connectiq #jazz #watchfacedesign
 
@@ -107,7 +107,7 @@ Made in Montréal.
 - Prévu : ven. 27 nov. vers 19 h HE. Rappel programmé.
 - Statut : montré à Pablo le 24 nov.; publication au moment jugé le meilleur (consigne de Pablo).
 - Liens : Garmin https://apps.garmin.com/apps/b9fc191b-d7ca-4768-b13d-b4ed1cf0e514 · Wear OS https://play.google.com/store/apps/details?id=com.milotche.duo.watchface
-- À confirmer par Pablo avant d'ajouter : « One subscription covers both watches » (vrai aussi entre Garmin et Wear OS ?).
+- Jumelage Garmin + Wear OS confirmé par Pablo le 24 nov. (« une percée »). Toujours non confirmé : qu'un seul abonnement couvre les deux montres d'une paire mixte; ne pas l'écrire.
 - Ne pas écrire « world's only / unique » : non vérifié.
 - Légende :
 
@@ -115,7 +115,7 @@ Made in Montréal.
 
 Duo splits your watch in two. Your side: your time, your city, your heart rate. Their side: theirs. In the middle, the distance between you, anywhere in the world.
 
-And the two watches don't have to match. Garmin on one wrist, Wear OS on the other, and they still pair. One code, and you're connected.
+And the two watches don't have to match. Garmin on one wrist, Wear OS on the other, and they still pair. One code, and you're connected. As far as we know, no other watch face can do that.
 
 Free 3-day trial. On the Connect IQ Store and on Google Play. Link in bio.
 
@@ -182,7 +182,7 @@ Correspondance des dossiers : nfl = Football Tracker · drinker = The Sober · U
 | Mar. 1er déc. | Zodiac, refait (8 h 45) + story Santa 365 (Avent) | zodiac, noel | reel en banque; story à monter |
 | Ven. 4 déc. | Sky Glance (3,75 $ CA) | meteo | à monter |
 | Sam. 5 déc. | Wood (gratuit) | wood | à monter |
-| Dim. 6 déc. | Tech Cockpit PRO (essai gratuit) | tech | à monter |
+| Dim. 6 déc. | Tech Cockpit PRO (essai gratuit puis 3,49 $ US, confirmé par Pablo) | tech | à monter |
 | Lun. 7 déc. | Illusion (3,49 $ CA) | illusion | à monter |
 | Mar. 8 déc. | Flower & Dragon (3,75 $ CA) | fleuretdragon | à monter |
 | Ensuite | Gold vs Bitcoin, BitcoinLive, Agentic, Trump Live Coin Golf Day, puis Poker et Basketball refaits | | à monter |
