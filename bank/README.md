@@ -107,7 +107,7 @@ Made in Montréal.
 - Prévu : ven. 27 nov. vers 19 h HE. Rappel programmé.
 - Statut : montré à Pablo le 24 nov.; publication au moment jugé le meilleur (consigne de Pablo).
 - Liens : Garmin https://apps.garmin.com/apps/b9fc191b-d7ca-4768-b13d-b4ed1cf0e514 · Wear OS https://play.google.com/store/apps/details?id=com.milotche.duo.watchface
-- Jumelage Garmin + Wear OS confirmé par Pablo le 24 nov. (« une percée »). Toujours non confirmé : qu'un seul abonnement couvre les deux montres d'une paire mixte; ne pas l'écrire.
+- Jumelage Garmin + Wear OS confirmé par Pablo le 24 nov. (« une percée »). Un seul abonnement couvre les deux montres, en toutes circonstances, y compris une paire Garmin + Wear OS (confirmé par Pablo le 24 nov.).
 - Ne pas écrire « world's only / unique » : non vérifié.
 - Légende :
 
@@ -117,7 +117,7 @@ Duo splits your watch in two. Your side: your time, your city, your heart rate. 
 
 And the two watches don't have to match. Garmin on one wrist, Wear OS on the other, and they still pair. One code, and you're connected. As far as we know, no other watch face can do that.
 
-Free 3-day trial. On the Connect IQ Store and on Google Play. Link in bio.
+One subscription covers both watches, Garmin, Wear OS or one of each. Free 3-day trial. On the Connect IQ Store and on Google Play. Link in bio.
 
 #garmin #garminwatchface #wearos #connectiq #longdistance
 
