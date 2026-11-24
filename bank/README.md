@@ -104,11 +104,11 @@ Free trial, then $0.99 CAD a month. On the Connect IQ Store. Link in bio.
 
 ### The Sober — « une soirée vue par la montre »
 - Fichier : reels/the-sober-one-night.mp4
-- Meilleur moment : mer. 25 nov. en soirée (veille de Thanksgiving). La légende dit « tomorrow » : à adapter si publié un autre jour.
-- Statut : pas encore approuvé par Pablo.
+- Prévu : jeu. 26 nov. vers 17 h HE (Thanksgiving). Rappel programmé.
+- Statut : approuvé par Pablo le 24 nov. à 14 h 54.
 - Légende :
 
-Thanksgiving Eve is tomorrow. Your watch can keep count so you don't have to.
+Last night was Thanksgiving Eve. Your watch kept count.
 
 The Sober is a Garmin watch face that estimates your blood alcohol on your wrist. One tap per drink. It shows your estimated BAC, when you should be back to 0.00, and the last digit of the time starts to tilt as the number climbs.
 
@@ -116,7 +116,7 @@ An estimate, not a breathalyzer. Never a reason to drive.
 
 Free on the Connect IQ Store. Drink logging is The Sober Log, $2.99 once. Link in bio.
 
-#garmin #garminwatchface #connectiq #thanksgivingeve #sobercurious
+#garmin #garminwatchface #connectiq #thanksgiving #sobercurious
 
 ## À faire (captures à recevoir)
 Hockey Team Tracker (sam. 28), Miss Chiang (dim. 29), Duo (ven. 27, distance réelle à fournir), story Santa 365 (1er déc.),
