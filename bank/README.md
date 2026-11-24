@@ -15,6 +15,25 @@ Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chem
 | Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
 
 ## En banque (prêt, à publier au bon moment)
+### Duo — « 5,480 km apart. One watch face. » (Garmin + Wear OS)
+- Fichier : reels/duo.mp4
+- Prévu : ven. 27 nov. vers 19 h HE. Rappel programmé.
+- Statut : montré à Pablo le 24 nov.; publication au moment jugé le meilleur (consigne de Pablo).
+- Liens : Garmin https://apps.garmin.com/apps/b9fc191b-d7ca-4768-b13d-b4ed1cf0e514 · Wear OS https://play.google.com/store/apps/details?id=com.milotche.duo.watchface
+- À confirmer par Pablo avant d'ajouter : « One subscription covers both watches » (vrai aussi entre Garmin et Wear OS ?).
+- Ne pas écrire « world's only / unique » : non vérifié.
+- Légende :
+
+5,480 km apart. One watch face.
+
+Duo splits your watch in two. Your side: your time, your city, your heart rate. Their side: theirs. In the middle, the distance between you, anywhere in the world.
+
+And the two watches don't have to match. Garmin on one wrist, Wear OS on the other, and they still pair. One code, and you're connected.
+
+Free 3-day trial. On the Connect IQ Store and on Google Play. Link in bio.
+
+#garmin #garminwatchface #wearos #connectiq #longdistance
+
 ### Miss Chiang — « My watch is mad at me. Again. »
 - Fichier : reels/miss-chiang.mp4
 - Prévu : dim. 29 nov. vers 18 h HE. Rappel programmé.
