@@ -15,6 +15,23 @@ Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chem
 | Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
 
 ## En banque (prêt, à publier au bon moment)
+### Simone — « Twelve months on piano keys. » (lancement)
+- Fichier : reels/simone.mp4
+- Prévu : lun. 30 nov. vers 19 h HE. Rappel programmé. Approuvé sur le Connect IQ Store le 24 nov. 2026.
+- Lien store : https://apps.garmin.com/apps/b7da2903-f2e6-4c2d-9651-a7196c90183c — prix inconnu, ne pas en donner.
+- Voir bank/360.md pour les règles de l'hommage.
+- Légende :
+
+Twelve months on piano keys. Two VU meters. One voice.
+
+Simone is a new Garmin watch face with the mood of a 1960s jazz club. The months sit around the dial like a keyboard, and your heart rate and steps move on two studio needles.
+
+An independent tribute to Nina Simone.
+
+In English, French, Spanish, German and Chinese. New on the Connect IQ Store. Link in bio.
+
+#garmin #garminwatchface #connectiq #jazz #watchfacedesign
+
 ### Ayiti — « January 1. Independence Day. Ayiti, on your wrist. »
 - Fichier : reels/ayiti.mp4
 - Prévu : ven. 1er janv. 2027 vers 10 h HE (fête de l'Indépendance d'Haïti). Rappel programmé. Demande de Pablo : sortir Ayiti lors d'une fête haïtienne.
@@ -141,16 +158,17 @@ Free on the Connect IQ Store. Drink logging is The Sober Log, $2.99 once. Link i
 ## File de production (mise à jour le 24 nov. 2026, 15 h 25)
 Pablo a donné une indépendance complète : monter et publier sans lui montrer avant, être réactif, compte rendu après.
 Sources : sources/<dossier>/ (699 fichiers poussés par Pablo le 24 nov.). Prix : watchfaces.milotche.com, sauf correction de Pablo.
-Correspondance des dossiers : nfl = Football Tracker · drinker = The Sober · US + duo = Duo · nhl + hockey-team-tracker = Hockey · misschiang + miss-chiang = Miss Chiang · watchface1 + side-b = Side B · noel + santa-365 = Santa 365 · meteo = Sky Glance · tech = Tech Cockpit PRO · fleuretdragon = Flower & Dragon · bitcoin = BitcoinLive · trump = Trump Live Coin Golf Day · simone = NON SORTI, ne rien publier.
+Correspondance des dossiers : nfl = Football Tracker · drinker = The Sober · US + duo = Duo · nhl + hockey-team-tracker = Hockey · misschiang + miss-chiang = Miss Chiang · watchface1 + side-b = Side B · noel + santa-365 = Santa 365 · meteo = Sky Glance · tech = Tech Cockpit PRO · fleuretdragon = Flower & Dragon · bitcoin = BitcoinLive · trump = Trump Live Coin Golf Day · simone = Simone, approuvé sur le store le 24 nov. 2026.
 
 | Date visée | Cadran | Dossier | État |
 |---|---|---|---|
-| Lun. 30 nov. | Sky Glance (3,75 $ CA) | meteo | à monter |
+| Lun. 30 nov. | Simone, lancement | simone | en banque |
 | Mar. 1er déc. | Zodiac, refait (essai gratuit) + story Santa 365 (Avent) | zodiac, noel | à monter |
-| Ven. 4 déc. | Wood (gratuit) | wood | à monter |
-| Sam. 5 déc. | Tech Cockpit PRO (essai gratuit) | tech | à monter |
-| Dim. 6 déc. | Illusion (3,49 $ CA) | illusion | à monter |
-| Lun. 7 déc. | Flower & Dragon (3,75 $ CA) | fleuretdragon | à monter |
+| Ven. 4 déc. | Sky Glance (3,75 $ CA) | meteo | à monter |
+| Sam. 5 déc. | Wood (gratuit) | wood | à monter |
+| Dim. 6 déc. | Tech Cockpit PRO (essai gratuit) | tech | à monter |
+| Lun. 7 déc. | Illusion (3,49 $ CA) | illusion | à monter |
+| Mar. 8 déc. | Flower & Dragon (3,75 $ CA) | fleuretdragon | à monter |
 | Ensuite | Gold vs Bitcoin, BitcoinLive, Agentic, Trump Live Coin Golf Day, puis Poker et Basketball refaits | | à monter |
 
 Chaque reel : 1080 x 1920, 12 s environ, accroche à l'écran dès la première image, musique originale synthétisée, carte finale avec prix et « LINK IN BIO ». Scripts de référence dans /home/claude/work/<cadran>/ (ex. ayiti/render.py).
@@ -201,3 +219,4 @@ Pablo veut aussi du contenu poussé de façon sporadique, hors calendrier, sans 
 | Date | Cadran | Fichier |
 |---|---|---|
 | 24 nov. | The Sober | stories/the-sober-story.jpg |
+| 24 nov. | Simone, annonce du lancement | stories/simone-launch-story.jpg |
