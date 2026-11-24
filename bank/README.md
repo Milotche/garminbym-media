@@ -15,6 +15,23 @@ Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chem
 | Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
 
 ## En banque (prêt, à publier au bon moment)
+### Life — « Your battery is the tide. »
+- Fichier : reels/life.mp4
+- Prévu : jeu. 3 déc. vers 19 h HE. Rappel programmé.
+- Statut : montré à Pablo le 24 nov.; publication au moment jugé le meilleur (consigne de Pablo).
+- Lien store : https://apps.garmin.com/apps/87e8f75d-5209-49cd-a87f-7b0ce315c716 — 1,99 $ US (dit par Pablo le 24 nov.).
+- Légende :
+
+Your battery is the tide.
+
+Life is a quiet Garmin watch face. A full charge is high water. As the battery drains, the tide goes out, in a light coloured like a day. Plug the watch in and bubbles rise while it fills back up.
+
+Time, date, temperature. Nothing else to read.
+
+$1.99 USD on the Connect IQ Store. Link in bio.
+
+#garmin #garminwatchface #connectiq #minimalwatchface #watchfacedesign
+
 ### Side B — « Your day is a vinyl album. »
 - Fichier : reels/side-b.mp4
 - Prévu : mer. 2 déc. vers 19 h HE. Rappel programmé.
