@@ -15,6 +15,23 @@ Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chem
 | Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
 
 ## En banque (prêt, à publier au bon moment)
+### Hockey Team Tracker — « Your team leads. Your watch celebrates. »
+- Fichier : reels/hockey-team-tracker.mp4
+- Prévu : sam. 28 nov. vers 17 h 30 HE (soir de hockey). Rappel programmé.
+- Statut : montré à Pablo le 24 nov.; publication au moment jugé le meilleur (consigne de Pablo).
+- Lien store : https://apps.garmin.com/apps/e5463e3d-3fa1-42f8-b1e3-52b2c0cc89fc
+- Légende :
+
+Game night. Your team's score is already on your wrist.
+
+Hockey Team Tracker is a Garmin watch face that follows your hockey team: next game, live score with period and clock, standings, team news and top scorers. Pick your team and the face wears its colours. When they lead, fireworks.
+
+Made in Montréal. Unofficial, not affiliated with any league or team.
+
+Free trial on the Connect IQ Store. Link in bio.
+
+#garmin #garminwatchface #connectiq #hockey #hockeyfans
+
 ### The Sober — « une soirée vue par la montre »
 - Fichier : reels/the-sober-one-night.mp4
 - Meilleur moment : mer. 25 nov. en soirée (veille de Thanksgiving). La légende dit « tomorrow » : à adapter si publié un autre jour.
