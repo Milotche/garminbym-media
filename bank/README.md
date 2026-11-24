@@ -151,6 +151,14 @@ puis Side B, Life, Ayiti, Sky Glance, Wood, Tech Cockpit PRO, Illusion, Flower &
 - Faits uniquement tirés du matériel de Pablo (dossier sources/, watchfaces.milotche.com, ses messages). Répliques de Miss Chiang : mot pour mot depuis sources/miss-chiang/phrases-v1-en.md, sans « Why you like gamble… » ni « You so stingy! ».
 - Pas de musique protégée, pas d'images d'autres comptes, pas de commentaires automatisés sur d'autres comptes.
 
+## Contenu spontané (ajouté le 24 nov. 2026, 15 h 02, à la demande de Pablo)
+Pablo veut aussi du contenu poussé de façon sporadique, hors calendrier, sans le voir avant.
+- Quoi : une story ou un reel court en plus, quand une occasion réelle se présente. Pas tous les jours, pas à heure fixe.
+- Occasions : résultat ou soirée de match (Hockey, Football, Basketball), une date (fête, premier du mois, lundi), la météo, un commentaire qui mérite une réponse en image, un reel qui décolle et qu'on prolonge, un cadran pas vu depuis longtemps.
+- Limites : un seul contenu spontané par jour au maximum; jamais deux reels le même jour; mêmes règles de faits et de ton que le reste; rien sur un sujet sensible ou une actualité grave; aucun résultat sportif inventé (vérifier avec l'outil de scores avant).
+- Compte rendu : dans le bilan suivant, avec le lien.
+- Passage d'opportunité : un second réveil par jour, à une heure qui change, se reprogramme lui-même.
+
 ## Tournée quotidienne (12 h 30 HE, se reprogramme elle-même)
 1. Commentaires : lire et répondre.
 2. Story du jour : la fabriquer (1080 x 1920, JPEG), la déposer dans stories/, la publier via create_story avec l'adresse milotche.github.io, la noter ci-dessous.
