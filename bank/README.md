@@ -15,6 +15,23 @@ Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chem
 | Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
 
 ## En banque (prêt, à publier au bon moment)
+### Miss Chiang — « My watch is mad at me. Again. »
+- Fichier : reels/miss-chiang.mp4
+- Prévu : dim. 29 nov. vers 18 h HE. Rappel programmé.
+- Statut : montré à Pablo le 24 nov.; publication au moment jugé le meilleur (consigne de Pablo).
+- Répliques : uniquement tirées de sources/miss-chiang/phrases-v1-en.md.
+- Légende :
+
+My watch is mad at me. Again.
+
+Miss Chiang is a Garmin watch face with opinions. She reads your steps, heart rate and battery, and she has something to say about all of it. Hundreds of lines, a new one every time you look.
+
+One hour a day, she's nice. "Go Princess." Then she goes back to yelling.
+
+Free 3-day trial on the Connect IQ Store. Link in bio.
+
+#garmin #garminwatchface #connectiq #pixelart #funnywatchface
+
 ### Hockey Team Tracker — « Your team leads. Your watch celebrates. »
 - Fichier : reels/hockey-team-tracker.mp4
 - Prévu : sam. 28 nov. vers 17 h 30 HE (soir de hockey). Rappel programmé.
