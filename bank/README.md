@@ -15,6 +15,23 @@ Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chem
 | Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
 
 ## En banque (prêt, à publier au bon moment)
+### Side B — « Your day is a vinyl album. »
+- Fichier : reels/side-b.mp4
+- Prévu : mer. 2 déc. vers 19 h HE. Rappel programmé.
+- Statut : montré à Pablo le 24 nov.; publication au moment jugé le meilleur (consigne de Pablo).
+- Lien store : https://apps.garmin.com/apps/303a2017-533e-4f9e-a3de-09db6185ea54 — entièrement gratuit (confirmé par Pablo).
+- Légende :
+
+Your day is a vinyl album.
+
+Side B is a Garmin watch face built like a turntable. One track per hour, and the tonearm follows the minutes across the record. Your battery shows up as a stereo VU-meter. Side A, then Side B: the record flips as the day goes on.
+
+Made in Montréal.
+
+100% free on the Connect IQ Store. No trial, no subscription. Link in bio.
+
+#garmin #garminwatchface #connectiq #vinyl #turntable
+
 ### Duo — « 5,480 km apart. One watch face. » (Garmin + Wear OS)
 - Fichier : reels/duo.mp4
 - Prévu : ven. 27 nov. vers 19 h HE. Rappel programmé.
