@@ -172,6 +172,15 @@ Pablo veut aussi du contenu poussé de façon sporadique, hors calendrier, sans 
 - Compte rendu : dans le bilan suivant, avec le lien.
 - Passage d'opportunité : un second réveil par jour, à une heure qui change, se reprogramme lui-même.
 
+## Veille des tendances (ajoutée le 24 nov. 2026)
+- Chaque lundi, pendant la tournée : recherche web sur l'actualité Garmin (nouvelles montres, mises à jour, soldes), les discussions autour des cadrans, et le calendrier sportif et des fêtes de la semaine. En tirer 2 ou 3 angles et ajuster la file de production.
+- Chaque semaine : classer nos propres publications par multiple de la médiane et par partages; refaire ce qui marche, arrêter ce qui ne marche pas.
+- Limite : pas d'accès à l'onglet Explorer ni aux sons tendance d'Instagram. Pablo peut envoyer des liens ou captures de reels qui marchent; on en reprend la structure, jamais les images.
+- Constat du 24 nov. : gros rabais Garmin pour le Black Friday (27 nov.) et jusqu'à Noël, donc vague de nouveaux propriétaires de montres. Angle à exploiter : « Just got a Garmin? Change the watch face first. »
+  - Ven. 27 nov. : story « New Garmin? Start here. » (en plus du reel Duo).
+  - Entre le 30 nov. et le 20 déc. : un carrousel « 7 watch faces to install on your new Garmin ».
+  - Sam. 26 déc. : reel « Unboxed a Garmin yesterday? » avec trois cadrans gratuits (Side B, Wood, The Sober).
+
 ## Tournée quotidienne (12 h 30 HE, se reprogramme elle-même)
 1. Commentaires : lire et répondre.
 2. Story du jour : la fabriquer (1080 x 1920, JPEG), la déposer dans stories/, la publier via create_story avec l'adresse milotche.github.io, la noter ci-dessous.
