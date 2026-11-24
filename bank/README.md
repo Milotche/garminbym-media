@@ -173,7 +173,8 @@ Pablo veut aussi du contenu poussé de façon sporadique, hors calendrier, sans 
 - Passage d'opportunité : un second réveil par jour, à une heure qui change, se reprogramme lui-même.
 
 ## Veille des tendances (ajoutée le 24 nov. 2026)
-- Chaque lundi, pendant la tournée : recherche web sur l'actualité Garmin (nouvelles montres, mises à jour, soldes), les discussions autour des cadrans, et le calendrier sportif et des fêtes de la semaine. En tirer 2 ou 3 angles et ajuster la file de production.
+- Tous les 3 jours (demande de Pablo, 24 nov. 16 h 30), pendant la tournée : recherche web sur l'actualité Garmin (nouvelles montres, mises à jour, soldes), les discussions autour des cadrans, et le calendrier sportif et des fêtes à venir. En tirer 2 ou 3 angles et ajuster la file de production. Réagir tout de suite aux mouvements importants (lancement d'une montre, grosse mise à jour, événement majeur) par une story ou un reel, sans attendre le calendrier. Prochaine recherche : ven. 27 nov., puis lun. 30 nov., jeu. 3 déc., etc. Noter chaque recherche ci-dessous.
+- Recherches faites : 24 nov. (soldes du Black Friday).
 - Chaque semaine : classer nos propres publications par multiple de la médiane et par partages; refaire ce qui marche, arrêter ce qui ne marche pas.
 - Limite : pas d'accès à l'onglet Explorer ni aux sons tendance d'Instagram. Pablo peut envoyer des liens ou captures de reels qui marchent; on en reprend la structure, jamais les images.
 - Constat du 24 nov. : gros rabais Garmin pour le Black Friday (27 nov.) et jusqu'à Noël, donc vague de nouveaux propriétaires de montres. Angle à exploiter : « Just got a Garmin? Change the watch face first. »
