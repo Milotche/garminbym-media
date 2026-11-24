@@ -138,13 +138,26 @@ Free on the Connect IQ Store. Drink logging is The Sober Log, $2.99 once. Link i
 
 #garmin #garminwatchface #connectiq #thanksgiving #sobercurious
 
-## À faire (captures à recevoir)
-Hockey Team Tracker (sam. 28), Miss Chiang (dim. 29), Duo (ven. 27, distance réelle à fournir), story Santa 365 (1er déc.),
-puis Side B, Life, Ayiti, Sky Glance, Wood, Tech Cockpit PRO, Illusion, Flower & Dragon, Gold vs Bitcoin, BitcoinLive, Agentic, Trump Live Coin Golf Day.
+## File de production (mise à jour le 24 nov. 2026, 15 h 25)
+Pablo a donné une indépendance complète : monter et publier sans lui montrer avant, être réactif, compte rendu après.
+Sources : sources/<dossier>/ (699 fichiers poussés par Pablo le 24 nov.). Prix : watchfaces.milotche.com, sauf correction de Pablo.
+Correspondance des dossiers : nfl = Football Tracker · drinker = The Sober · US + duo = Duo · nhl + hockey-team-tracker = Hockey · misschiang + miss-chiang = Miss Chiang · watchface1 + side-b = Side B · noel + santa-365 = Santa 365 · meteo = Sky Glance · tech = Tech Cockpit PRO · fleuretdragon = Flower & Dragon · bitcoin = BitcoinLive · trump = Trump Live Coin Golf Day · simone = NON SORTI, ne rien publier.
+
+| Date visée | Cadran | Dossier | État |
+|---|---|---|---|
+| Lun. 30 nov. | Sky Glance (3,75 $ CA) | meteo | à monter |
+| Mar. 1er déc. | Zodiac, refait (essai gratuit) + story Santa 365 (Avent) | zodiac, noel | à monter |
+| Ven. 4 déc. | Wood (gratuit) | wood | à monter |
+| Sam. 5 déc. | Tech Cockpit PRO (essai gratuit) | tech | à monter |
+| Dim. 6 déc. | Illusion (3,49 $ CA) | illusion | à monter |
+| Lun. 7 déc. | Flower & Dragon (3,75 $ CA) | fleuretdragon | à monter |
+| Ensuite | Gold vs Bitcoin, BitcoinLive, Agentic, Trump Live Coin Golf Day, puis Poker et Basketball refaits | | à monter |
+
+Chaque reel : 1080 x 1920, 12 s environ, accroche à l'écran dès la première image, musique originale synthétisée, carte finale avec prix et « LINK IN BIO ». Scripts de référence dans /home/claude/work/<cadran>/ (ex. ayiti/render.py).
 
 ## Règles (mises à jour le 24 nov. 2026, 14 h 26, par Pablo)
 - Ton du compte : vivant, drôle si possible, intelligent. Jamais aux dépens de quelqu'un.
-- Reels : un cadran par jour au maximum. Ceux que Pablo a vus et qui sont en banque sortent au moment jugé le meilleur; compte rendu après.
+- Reels : un cadran par jour au maximum. Depuis le 24 nov. 15 h 25, indépendance complète : montage et publication sans les montrer à Pablo, au moment jugé le meilleur; compte rendu après, avec le lien.
 - Stories : une par jour, publiées sans accord préalable de Pablo. Compte rendu dans le bilan.
 - Commentaires sous les publications du compte : réponse sans accord préalable.
 - Toujours demander avant : supprimer une publication ou un commentaire, messages privés, tout prix / fonction / compatibilité absent du matériel de Pablo, tout sujet sensible.
