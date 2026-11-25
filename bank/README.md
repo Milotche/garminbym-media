@@ -14,6 +14,7 @@ Consigne de Pablo du 25 nov. 2026 :
 - Duo : ne pas annoncer Wear OS tant que Pablo ne l'a pas confirmé.
 - Pas de politique (donc pas de Trump Live Coin), rien sur une actualité tragique.
 - Ne supprimer ni modifier aucun fichier de reels/ : Claude Code les utilise.
+- Passage quotidien de Claude (chat), rétabli le 25 nov. à la demande de Pablo (« plusieurs cadrans n'ont aucune visibilité ») : une story par jour au maximum, en priorité pour les cadrans encore jamais vus sur le compte et non réservés : BitcoinLive, Gold vs Bitcoin (crypto : prix réels non affichés, jamais de conseil), puis Poker: All In (libre dès le 29 nov.), Basketball Tracker (libre dès le 30 nov., sans nom de ligue ni d'équipe). Sinon, relayer en story un post déjà publié par Claude Code.
 
 ## Publié
 Publications faites par Claude (chat). Chaque nouvelle publication est notée ici : date, type, lien.
@@ -23,6 +24,7 @@ Publications faites par Claude (chat). Chaque nouvelle publication est notée ic
 | 24 nov. 2026 | Story | The Sober | stories/the-sober-story.jpg | story, 24 h |
 | 24 nov. 2026 | Reel | Santa 365 | reels/santa-365-advent.mp4 | https://www.instagram.com/reel/DgIoeGjiTyO/ |
 | 24 nov. 2026 | Story | Simone, annonce du lancement | stories/simone-launch-story.jpg | story, 24 h |
+| 25 nov. 2026 | Story | Agentic (« Your watch is an AI agent ») | stories/agentic-story.jpg | story, 24 h (media 17883233697554828) |
 
 ## Programmé
 Calendrier tenu par Claude Code depuis le 25 nov. 2026.
