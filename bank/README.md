@@ -3,16 +3,29 @@
 État au 24 nov. 2026. Compte Instagram : garminbym (Windsor.ai, account 17841459419659909).
 Adresse publique des fichiers : https://milotche.github.io/garminbym-media/<chemin>
 
+## Organisation depuis le 25 nov. 2026 (prévaut sur tout le reste de ce fichier)
+Consigne de Pablo du 25 nov. 2026 :
+- Les reels et carrousels planifiés sont publiés par Claude Code (PC de Pablo), qui a repris cette banque dans son planning. Claude (chat) ne publie plus aucun reel de la banque et n'a plus aucun rappel programmé.
+- Rôle de Claude (chat) : du ponctuel seulement. Stories et réactions à une actualité du jour (record, match, fête), sans demander, au plus une par jour. Pas de reel ni de carrousel planifié.
+- Avant chaque publication : vérifier les publications des 7 derniers jours du compte. Ne pas publier un cadran déjà publié dans les 7 derniers jours, ni un cadran réservé par Claude Code : Football (25 nov.), The Sober (26 nov.), carrousel Black Friday avec Duo, Simone, Miss Chiang, Wood, Side B (27 nov.), Hockey (28 nov.), Miss Chiang (29 nov.), Tech Cockpit PRO (30 nov.), Santa 365 (29 nov. et 1er déc.), Zodiac (2 déc.), Side B (3 déc.), Life (4 déc.), Duo (5 déc.), Sky Glance (6 déc.), Illusion (7 déc.), Flower & Dragon (8 déc.), Ayiti (1er janv. 2027). Une story qui relaie un post déjà publié de ce calendrier est permise.
+- Simone : ne jamais nommer la chanteuse, nulle part (légendes, stories, fichiers). On peut dire « for jazz lovers ». Ne jamais parler du 21 avril.
+- The Sober : ne jamais parler de conduite, de voiture, de clés, de limite légale, ni de « safe » ou de feu vert.
+- Trackers sportifs : aucun nom de ligue, aucun surnom d'équipe, aucun logo, aucun mot-clic de ligue.
+- Duo : ne pas annoncer Wear OS tant que Pablo ne l'a pas confirmé.
+- Pas de politique (donc pas de Trump Live Coin), rien sur une actualité tragique.
+- Ne supprimer ni modifier aucun fichier de reels/ : Claude Code les utilise.
+
 ## Publié
-| Date | Cadran | Fichier | Lien |
-|---|---|---|---|
-| 24 nov. | The Sober (story) | stories/the-sober-story.jpg | story, 24 h |
-| 24 nov. | Santa 365 (reel) | reels/santa-365-advent.mp4 | https://www.instagram.com/reel/DgIoeGjiTyO/ |
+Publications faites par Claude (chat). Chaque nouvelle publication est notée ici : date, type, lien.
+
+| Date | Type | Cadran | Fichier | Lien |
+|---|---|---|---|---|
+| 24 nov. 2026 | Story | The Sober | stories/the-sober-story.jpg | story, 24 h |
+| 24 nov. 2026 | Reel | Santa 365 | reels/santa-365-advent.mp4 | https://www.instagram.com/reel/DgIoeGjiTyO/ |
+| 24 nov. 2026 | Story | Simone, annonce du lancement | stories/simone-launch-story.jpg | story, 24 h |
 
 ## Programmé
-| Date | Cadran | Fichier | Note |
-|---|---|---|---|
-| Mer. 25 nov. 18 h 30 HE | American Football Tracker | reels/football-thanksgiving.mp4 | approuvé; légende « Three Thanksgiving games tomorrow… » |
+Calendrier tenu par Claude Code depuis le 25 nov. 2026.
 
 ## En banque (prêt, à publier au bon moment)
 ### Zodiac, refait — « A new horoscope on your watch. Every day. »
@@ -35,14 +48,14 @@ Free 7-day trial on the Connect IQ Store. Link in bio.
 - Fichier : reels/simone.mp4
 - Prévu : lun. 30 nov. vers 19 h HE. Rappel programmé. Approuvé sur le Connect IQ Store le 24 nov. 2026.
 - Lien store : https://apps.garmin.com/apps/b7da2903-f2e6-4c2d-9651-a7196c90183c — 2,49 $ US (confirmé par Pablo le 24 nov.).
-- Voir bank/360.md pour les règles de l'hommage.
+- Voir bank/360.md pour les règles de Simone.
 - Légende :
 
 Twelve months on piano keys. Two VU meters. One voice.
 
 Simone is a new Garmin watch face with the mood of a 1960s jazz club. The months sit around the dial like a keyboard, and your heart rate and steps move on two studio needles.
 
-An independent tribute to Nina Simone.
+For jazz lovers.
 
 In English, French, Spanish, German and Chinese. New on the Connect IQ Store, $2.49 USD. Link in bio.
 
@@ -171,34 +184,19 @@ Free on the Connect IQ Store. Drink logging is The Sober Log, $2.99 once. Link i
 
 #garmin #garminwatchface #connectiq #thanksgiving #sobercurious
 
-## File de production (mise à jour le 24 nov. 2026, 15 h 25)
-Pablo a donné une indépendance complète : monter et publier sans lui montrer avant, être réactif, compte rendu après.
-Sources : sources/<dossier>/ (699 fichiers poussés par Pablo le 24 nov.). Prix : watchfaces.milotche.com, sauf correction de Pablo.
-Correspondance des dossiers : nfl = Football Tracker · drinker = The Sober · US + duo = Duo · nhl + hockey-team-tracker = Hockey · misschiang + miss-chiang = Miss Chiang · watchface1 + side-b = Side B · noel + santa-365 = Santa 365 · meteo = Sky Glance · tech = Tech Cockpit PRO · fleuretdragon = Flower & Dragon · bitcoin = BitcoinLive · trump = Trump Live Coin Golf Day · simone = Simone, approuvé sur le store le 24 nov. 2026.
-
-| Date visée | Cadran | Dossier | État |
-|---|---|---|---|
-| Lun. 30 nov. | Simone, lancement | simone | en banque |
-| Mar. 1er déc. | Zodiac, refait (8 h 45) + story Santa 365 (Avent) | zodiac, noel | reel en banque; story à monter |
-| Ven. 4 déc. | Sky Glance (3,75 $ CA) | meteo | à monter |
-| Sam. 5 déc. | Wood (gratuit) | wood | à monter |
-| Dim. 6 déc. | Tech Cockpit PRO (essai gratuit puis 3,49 $ US, confirmé par Pablo) | tech | à monter |
-| Lun. 7 déc. | Illusion (3,49 $ CA) | illusion | à monter |
-| Mar. 8 déc. | Flower & Dragon (3,75 $ CA) | fleuretdragon | à monter |
-| Ensuite | Gold vs Bitcoin, BitcoinLive, Agentic, Trump Live Coin Golf Day, puis Poker et Basketball refaits | | à monter |
-
-Chaque reel : 1080 x 1920, 12 s environ, accroche à l'écran dès la première image, musique originale synthétisée, carte finale avec prix et « LINK IN BIO ». Scripts de référence dans /home/claude/work/<cadran>/ (ex. ayiti/render.py).
+## File de production
+Calendrier tenu par Claude Code depuis le 25 nov. 2026.
 
 ## Règles (mises à jour le 24 nov. 2026, 14 h 26, par Pablo)
 - Ton du compte : vivant, drôle si possible, intelligent. Jamais aux dépens de quelqu'un.
-- Reels : un cadran par jour au maximum. Depuis le 24 nov. 15 h 25, indépendance complète : montage et publication sans les montrer à Pablo, au moment jugé le meilleur; compte rendu après, avec le lien.
+- Reels : remplacé le 25 nov. 2026, voir « Organisation depuis le 25 nov. 2026 ».
 - Stories : une par jour, publiées sans accord préalable de Pablo. Compte rendu dans le bilan.
 - Commentaires sous les publications du compte : réponse sans accord préalable.
 - Toujours demander avant : supprimer une publication ou un commentaire, messages privés, tout prix / fonction / compatibilité absent du matériel de Pablo, tout sujet sensible.
 - Faits uniquement tirés du matériel de Pablo (dossier sources/, watchfaces.milotche.com, ses messages). Répliques de Miss Chiang : mot pour mot depuis sources/miss-chiang/phrases-v1-en.md, sans « Why you like gamble… » ni « You so stingy! ».
 - Pas de musique protégée, pas d'images d'autres comptes, pas de commentaires automatisés sur d'autres comptes.
 
-## Contenu spontané (ajouté le 24 nov. 2026, 15 h 02, à la demande de Pablo)
+## Contenu spontané (24 nov. 2026; limité depuis le 25 nov. : voir « Organisation depuis le 25 nov. 2026 »)
 Pablo veut aussi du contenu poussé de façon sporadique, hors calendrier, sans le voir avant.
 - Quoi : une story ou un reel court en plus, quand une occasion réelle se présente. Pas tous les jours, pas à heure fixe.
 - Occasions : résultat ou soirée de match (Hockey, Football, Basketball), une date (fête, premier du mois, lundi), la météo, un commentaire qui mérite une réponse en image, un reel qui décolle et qu'on prolonge, un cadran pas vu depuis longtemps.
@@ -216,7 +214,7 @@ Pablo veut aussi du contenu poussé de façon sporadique, hors calendrier, sans 
   - Entre le 30 nov. et le 20 déc. : un carrousel « 7 watch faces to install on your new Garmin ».
   - Sam. 26 déc. : reel « Unboxed a Garmin yesterday? » avec trois cadrans gratuits (Side B, Wood, The Sober).
 
-## Trump Live Coin Golf Day : réaction aux mouvements du $TRUMP (consigne de Pablo, 24 nov. 2026)
+## Trump Live Coin Golf Day : ANNULÉ le 25 nov. 2026 (pas de politique). Section conservée pour l'historique, ne pas appliquer.
 Principe posé par Pablo : on ne fait en aucun cas l'apologie du personnage; c'est la performance d'une cryptomonnaie qui est mesurée.
 - Déclencheur : variation du $TRUMP d'au moins 15 % sur 24 h, vérifiée par une recherche web (source et heure notées). Vérifier à chaque tournée et à chaque passage d'opportunité.
 - Réaction : la story toute prête, stories/templates/trump-up-story.jpg (hausse, « HUGE ») ou trump-down-story.jpg (baisse, « SO SAD »), publiée le jour même. Un reel seulement si le mouvement est exceptionnel.
@@ -224,7 +222,7 @@ Principe posé par Pablo : on ne fait en aucun cas l'apologie du personnage; c'e
 - On parle du cadran et du prix, jamais de la personne : pas d'actualité politique, judiciaire ou électorale comme déclencheur, pas d'opinion, pas de moquerie envers ses partisans ni ses opposants, pas de paroles prêtées. Mention « Unofficial ».
 - Prix du cadran : 3,49 $ CA (watchfaces.milotche.com).
 
-## Tournée quotidienne (12 h 30 HE, se reprogramme elle-même)
+## Tournée quotidienne : suspendue le 25 nov. 2026 (aucun rappel programmé)
 1. Commentaires : lire et répondre.
 2. Story du jour : la fabriquer (1080 x 1920, JPEG), la déposer dans stories/, la publier via create_story avec l'adresse milotche.github.io, la noter ci-dessous.
 3. Chiffres : relever, noter ce qui se détache de la médiane.
