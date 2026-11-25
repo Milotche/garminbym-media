@@ -244,3 +244,8 @@ Principe posé par Pablo : on ne fait en aucun cas l'apologie du personnage; c'e
 |---|---|---|
 | 24 nov. | The Sober | stories/the-sober-story.jpg |
 | 24 nov. | Simone, annonce du lancement | stories/simone-launch-story.jpg |
+
+## Relevés
+| Date (HE) | Abonnés | Notes |
+|---|---|---|
+| 24 nov., 20 h | 11 | Santa 365 (6 h en ligne) : 17 vues, décrochage à 3 s 62,5 % (meilleur du compte; médiane des 8 premiers ≈ 82 %), 4,4 s vues en moyenne. The Sober (24 nov.) : 25 vues, 73,9 %, 6,7 s. Stories : 1 à 2 vues chacune. Aucun commentaire. Bio et lien modifiés par Pablo : lien = https://watchfaces.milotche.com/ (données en cache, essai Windsor.ai). |
