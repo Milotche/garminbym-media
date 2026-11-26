@@ -14,6 +14,7 @@ Consigne de Pablo du 25 nov. 2026 :
 - Duo : ne pas annoncer Wear OS tant que Pablo ne l'a pas confirmé.
 - Pas de politique (donc pas de Trump Live Coin), rien sur une actualité tragique.
 - Ne supprimer ni modifier aucun fichier de reels/ : Claude Code les utilise.
+- Commentaires (autorisés sans approbation par Pablo le 25 nov. 21 h 38) : sous nos propres publications seulement (le connecteur ne permet pas d'agir chez les autres, et Claude ne pilote pas de navigateur sur Instagram). Une question courte et naturelle en premier commentaire sous chaque reel ponctuel, pour lancer la conversation; réponses aux commentaires reçus. Jamais de promesse de fonction, jamais de prix inventé.
 - Passage quotidien de Claude (chat), rétabli le 25 nov. à la demande de Pablo (« plusieurs cadrans n'ont aucune visibilité »). Reels ponctuels autorisés par Pablo le 25 nov. 15 h 56. Au plus une story et un reel ponctuel par jour, uniquement pour des cadrans non réservés par Claude Code et non publiés dans les 7 derniers jours (une story compte comme publication). Fichiers des reels ponctuels dans ponctuel/, jamais dans reels/. Ordre visé : Gold vs Bitcoin (vers le 27-28 nov.), Poker: All In (dès le 29 nov.), Basketball Tracker (dès le 30 nov., sans nom de ligue ni d'équipe), Agentic (fait le 25 nov. à la demande de Pablo). Crypto : valeurs de démonstration signalées, jamais de conseil. Sinon, relayer en story un post déjà publié par Claude Code.
 
 ## Publié
@@ -27,6 +28,7 @@ Publications faites par Claude (chat). Chaque nouvelle publication est notée ic
 | 25 nov. 2026 | Story | Agentic (« Your watch is an AI agent ») | stories/agentic-story.jpg | story, 24 h (media 17883233697554828) |
 | 25 nov. 2026 | Reel | BitcoinLive (« Bitcoin, at a glance ») | ponctuel/bitcoinlive.mp4 | https://www.instagram.com/reel/DgLc3ZAhZMN/ |
 | 25 nov. 2026 | Reel | Agentic (« Your watch is an AI agent »), demandé par Pablo le jour même de la story | ponctuel/agentic.mp4 | https://www.instagram.com/reel/DgLeC8lhtUO/ |
+| 25 nov. 2026 | Commentaires | Questions sous Agentic, BitcoinLive et Santa 365 | — | sous chaque reel |
 
 ## Programmé
 Calendrier tenu par Claude Code depuis le 25 nov. 2026.
