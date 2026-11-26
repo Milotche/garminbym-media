@@ -29,6 +29,7 @@ Publications faites par Claude (chat). Chaque nouvelle publication est notée ic
 | 25 nov. 2026 | Reel | BitcoinLive (« Bitcoin, at a glance ») | ponctuel/bitcoinlive.mp4 | https://www.instagram.com/reel/DgLc3ZAhZMN/ |
 | 25 nov. 2026 | Reel | Agentic (« Your watch is an AI agent »), demandé par Pablo le jour même de la story | ponctuel/agentic.mp4 | https://www.instagram.com/reel/DgLeC8lhtUO/ |
 | 25 nov. 2026 | Commentaires | Questions sous Agentic, BitcoinLive et Santa 365 | — | sous chaque reel |
+| 26 nov. 2026 | Story | Relais du reel Football de Claude Code (« Thanksgiving. Game day. »), media 18181810273384809 | stories/football-gameday-story.jpg | story (24 h) |
 
 ## Programmé
 Calendrier tenu par Claude Code depuis le 25 nov. 2026.
