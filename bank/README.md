@@ -30,6 +30,7 @@ Publications faites par Claude (chat). Chaque nouvelle publication est notée ic
 | 25 nov. 2026 | Reel | Agentic (« Your watch is an AI agent »), demandé par Pablo le jour même de la story | ponctuel/agentic.mp4 | https://www.instagram.com/reel/DgLeC8lhtUO/ |
 | 25 nov. 2026 | Commentaires | Questions sous Agentic, BitcoinLive et Santa 365 | — | sous chaque reel |
 | 26 nov. 2026 | Story | Relais du reel Football de Claude Code (« Thanksgiving. Game day. »), media 18181810273384809 | stories/football-gameday-story.jpg | story (24 h) |
+| 27 nov. 2026 | Reel | Gold vs Bitcoin (« Why choose. »), question en premier commentaire | ponctuel/goldvsbitcoin.mp4 | https://www.instagram.com/reel/DgQWcIvIT2B/ |
 
 ## Programmé
 Calendrier tenu par Claude Code depuis le 25 nov. 2026.
@@ -251,6 +252,7 @@ Principe posé par Pablo : on ne fait en aucun cas l'apologie du personnage; c'e
 | 24 nov. | Simone, annonce du lancement | stories/simone-launch-story.jpg |
 
 ## Relevés
+- 27 nov. 2026 (veille) : Instagram limite à 5 mots-clics par publication ; les légendes sont indexées par mots-clés ; l'algorithme favorise enregistrements, partages et temps de visionnage. Les mots-clics de modèles (#GarminFenix, #GarminForerunner) font nos meilleurs chiffres (184 vues). Aucune nouvelle de Garmin à exploiter cette semaine.
 | Date (HE) | Abonnés | Notes |
 |---|---|---|
 | 24 nov., 20 h | 11 | Santa 365 (6 h en ligne) : 17 vues, décrochage à 3 s 62,5 % (meilleur du compte; médiane des 8 premiers ≈ 82 %), 4,4 s vues en moyenne. The Sober (24 nov.) : 25 vues, 73,9 %, 6,7 s. Stories : 1 à 2 vues chacune. Aucun commentaire. Bio et lien modifiés par Pablo : lien = https://watchfaces.milotche.com/ (données en cache, essai Windsor.ai). |
