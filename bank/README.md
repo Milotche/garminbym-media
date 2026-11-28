@@ -31,6 +31,7 @@ Publications faites par Claude (chat). Chaque nouvelle publication est notée ic
 | 25 nov. 2026 | Commentaires | Questions sous Agentic, BitcoinLive et Santa 365 | — | sous chaque reel |
 | 26 nov. 2026 | Story | Relais du reel Football de Claude Code (« Thanksgiving. Game day. »), media 18181810273384809 | stories/football-gameday-story.jpg | story (24 h) |
 | 27 nov. 2026 | Reel | Gold vs Bitcoin (« Why choose. »), question en premier commentaire | ponctuel/goldvsbitcoin.mp4 | https://www.instagram.com/reel/DgQWcIvIT2B/ |
+| 28 nov. 2026 | Story | Relais du reel Miss Chiang de Claude Code (« Saturday. Couch. Leftovers. She noticed. »), media 18117693719169492 | stories/miss-chiang-saturday-story.jpg | story (24 h) |
 
 ## Programmé
 Calendrier tenu par Claude Code depuis le 25 nov. 2026.
